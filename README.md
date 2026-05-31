@@ -13,15 +13,22 @@ This project focuses on detecting deepfake spoofing attacks in document-to-face 
 - Deepfake detection
 - Face liveness verification
 - Temporal texture analysis
+- 
+- ## Skills Demonstrated
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Python Programming
+- Face Verification
 
 ## Author
 Aastha Gupta
-## Project Structure
 
+##Project Structure
 - README.md
 - liveness_detection_final.ipynb
 - requirements.txt
+- 
 ## Output
-
 The system analyzes facial features and temporal textures to detect whether a face is real or a deepfake/spoofed image.
 
