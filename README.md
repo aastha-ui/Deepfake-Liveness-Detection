@@ -22,6 +22,4 @@ Aastha Gupta
 - liveness_detection_final.ipynb
 - requirements.txt
 
-## Author
 
-Aastha Gupta
