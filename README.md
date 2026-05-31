@@ -16,3 +16,12 @@ This project focuses on detecting deepfake spoofing attacks in document-to-face 
 
 ## Author
 Aastha Gupta
+## Project Structure
+
+- README.md
+- liveness_detection_final.ipynb
+- requirements.txt
+
+## Author
+
+Aastha Gupta
