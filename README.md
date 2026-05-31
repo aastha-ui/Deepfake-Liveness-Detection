@@ -21,5 +21,7 @@ Aastha Gupta
 - README.md
 - liveness_detection_final.ipynb
 - requirements.txt
+## Output
 
+The system analyzes facial features and temporal textures to detect whether a face is real or a deepfake/spoofed image.
 
